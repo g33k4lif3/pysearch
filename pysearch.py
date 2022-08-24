@@ -1,4 +1,4 @@
-#Searches directories for specific files
+#Searches directories for a specific file
 #Author: TM
 #Created: 8/24/2022
 
